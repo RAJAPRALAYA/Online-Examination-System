@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224230202
+# Name: PRALAYAKAVERI RAJA
+# Date: 09/03/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1120" height="947" alt="image" src="https://github.com/user-attachments/assets/6fde32a1-19a8-47a0-86e5-38d7d2f924f6" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1070" height="877" alt="image" src="https://github.com/user-attachments/assets/02f36589-525c-4ef2-a751-4e96ff7a70b6" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="926" height="775" alt="image" src="https://github.com/user-attachments/assets/b81643c8-90ce-4ca0-8541-6d4b6e973502" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="889" height="643" alt="image" src="https://github.com/user-attachments/assets/ae49421b-54ad-4ec9-a7b9-aeccba3e2363" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="840" height="991" alt="image" src="https://github.com/user-attachments/assets/5d14a113-4ea6-4873-8072-a5e0847e87d7" />
 
 
 
@@ -119,6 +124,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="924" height="767" alt="image" src="https://github.com/user-attachments/assets/177ab71a-c5fb-4899-a8f8-ee2da1e280ed" />
 
 
 # RESULT
